@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "OneCoreCommonProxyStub.dll",
+  "latest": "4154202146-133171A7E5523C043BA98FB7837D5255-1",
+  "builds": [
+    {
+      "key": "4154202146-133171A7E5523C043BA98FB7837D5255-1",
+      "timestamp": "4154202146",
+      "pdb_guid": "133171A7E5523C043BA98FB7837D5255",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/4154202146-133171A7E5523C043BA98FB7837D5255-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
